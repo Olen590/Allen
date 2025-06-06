@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Allen/static/css/main.3221b496.css",
-    "main.js": "/Allen/static/js/main.83813e06.js",
+    "main.js": "/Allen/static/js/main.b749817d.js",
     "static/media/about4.jpeg": "/Allen/static/media/about4.d1b330ef09272b4636d7.jpeg",
-    "static/media/chandan.jpg": "/Allen/static/media/chandan.526975f3d704af7daac5.jpg",
-    "static/media/chandan.pdf": "/Allen/static/media/chandan.ebe4006dad84d6b07f94.pdf",
+    "static/media/chandan.pdf": "/Allen/static/media/chandan.51f0c1afa34a62e91a33.pdf",
+    "static/media/chandan.jpeg": "/Allen/static/media/chandan.cf6e00da2032f32683e4.jpeg",
     "static/media/about3.jpg": "/Allen/static/media/about3.485a6ba6557a82e485f9.jpg",
     "static/media/about2.jpg": "/Allen/static/media/about2.8c304c1429684c0db779.jpg",
     "index.html": "/Allen/index.html",
     "main.3221b496.css.map": "/Allen/static/css/main.3221b496.css.map",
-    "main.83813e06.js.map": "/Allen/static/js/main.83813e06.js.map"
+    "main.b749817d.js.map": "/Allen/static/js/main.b749817d.js.map"
   },
   "entrypoints": [
     "static/css/main.3221b496.css",
-    "static/js/main.83813e06.js"
+    "static/js/main.b749817d.js"
   ]
 }
